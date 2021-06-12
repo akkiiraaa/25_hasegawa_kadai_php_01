@@ -59,7 +59,7 @@ fclose($file);
 </table>
 
 <ul>
-<button><a href="post.php">アンケートへ戻る！</a>
+<button><a href="post.php">アンケートへ戻る</a>
 </ul>
 
 
